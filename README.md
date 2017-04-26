@@ -28,7 +28,7 @@ mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run
 * Caso queira executar na porta 9090
 
 ```
-mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090 -Dmaven.tomcat.path=/exercicio
+mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090 -Dmaven.tomcat.path=/jspcalculaimc
 ```
 
 **Para Acessar Calculadora IMC**
