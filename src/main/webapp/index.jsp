@@ -24,7 +24,7 @@ form[role=moldura] {
 				<form role="moldura" class="form-horizontal">
 				<fieldset>
 					<div align="center">
-							<h3>Calcula IMC</h3>
+							<h3>Calcula IMC - JSP</h3>
 					</div>
 					<div class="form-group">
 						<label class="col-md-3 control-label" for="peso">Peso</label>
