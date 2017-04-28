@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Calcula IMC</title>
+<title>Calcula IMC - JSP</title>
 
 <style>
 form[role=moldura] {
